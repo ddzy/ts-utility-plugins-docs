@@ -101,6 +101,8 @@
   * [endsWith](utility/utility-string/endswith.md)
   * [lowerCase](utility/utility-string/lowercase.md)
   * [words](utility/utility-string/words.md)
-* [utility-date](utility/utility-date.md)
+* [utility-date](utility/utility-date/README.md)
+  * [now](utility/utility-date/now.md)
+  * [dateFormat](utility/utility-date/dateformat.md)
 * [utility-others](utility/utility-others.md)
 
