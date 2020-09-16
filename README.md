@@ -13,7 +13,7 @@
 * 想提升插件编写能力的工程师
 * 想互相借鉴优秀代码的`sharer`
 
-欢迎 [贡献代码](https://github.com/ddzy/ts-utility-plugins#%E5%A6%82%E4%BD%95%E8%B4%A1%E7%8C%AE)!
+欢迎 [贡献代码](extra/ru-he-gong-xian.md)!
 
 ### 源码
 
