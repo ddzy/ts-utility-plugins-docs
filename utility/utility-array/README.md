@@ -28,4 +28,5 @@
 | pullAll | 移除数组 `arr` 中所有和给定值相等的元素, 原地操作 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/array/pullAll) | [文档](pullall.md) |
 | zip | 创建一个分组元素的数组, 数组的第一个元素包含所有给定数组的第一个元素, 数组的第二个元素包含所有给定数组的第二个元素, 以此类推. 打包后的数组的长度等于源二维数组的最大长度的项 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/array/zip) | [文档](zip.md) |
 | \_join | 将数组中的所有元素转换为由 `separator` 分隔的字符串。 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/array/_join) | [文档](_join.md) |
+| take | 创建一个数组切片，从 `arr` 数组的起始元素开始提取 `amount` 个元素 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/array/take) | [文档](take.md) |
 

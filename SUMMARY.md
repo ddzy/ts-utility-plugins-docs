@@ -55,6 +55,7 @@
   * [pullAll](utility/utility-array/pullall.md)
   * [zip](utility/utility-array/zip.md)
   * [\_join](utility/utility-array/_join.md)
+  * [take](utility/utility-array/take.md)
 * [utility-dom](utility/utility-dom/README.md)
   * [getEle](utility/utility-dom/getele.md)
   * [getAllEle](utility/utility-dom/getallele.md)
