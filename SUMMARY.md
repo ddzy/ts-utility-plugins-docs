@@ -20,6 +20,8 @@
 ## Utility
 
 * [utility-algorithm](utility/untitled/README.md)
+  * [sort](utility/untitled/sort/README.md)
+    * [bubble-sort](utility/untitled/sort/bubble-sort.md)
   * [binary-search-tree](utility/untitled/binary-search-tree.md)
   * [double-linked-circular-list](utility/untitled/double-linked-circular-list.md)
   * [event-emitter](utility/untitled/event-emitter.md)
