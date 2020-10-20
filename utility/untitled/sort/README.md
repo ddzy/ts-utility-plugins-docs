@@ -13,4 +13,5 @@
 | Name | Description | Source | doc |
 | :--- | :--- | :--- | :--- |
 | bubbleSort | 冒泡排序 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/algorithm/sort/bubble-sort) | [文档](bubble-sort.md) |
+| selectSort | 选择排序 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/algorithm/sort/select-sort) | [文档](select-sort.md) |
 
