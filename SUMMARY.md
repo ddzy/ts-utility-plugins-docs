@@ -21,8 +21,9 @@
 
 * [utility-algorithm](utility/untitled/README.md)
   * [sort](utility/untitled/sort/README.md)
-    * [select-sort](utility/untitled/sort/select-sort.md)
     * [bubble-sort](utility/untitled/sort/bubble-sort.md)
+    * [select-sort](utility/untitled/sort/select-sort.md)
+    * [insert-sort](utility/untitled/sort/insert-sort.md)
   * [binary-search-tree](utility/untitled/binary-search-tree.md)
   * [double-linked-circular-list](utility/untitled/double-linked-circular-list.md)
   * [event-emitter](utility/untitled/event-emitter.md)
