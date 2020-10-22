@@ -24,6 +24,7 @@
     * [bubble-sort](utility/untitled/sort/bubble-sort.md)
     * [select-sort](utility/untitled/sort/select-sort.md)
     * [insert-sort](utility/untitled/sort/insert-sort.md)
+    * [shell-sort](utility/untitled/sort/shell-sort.md)
   * [binary-search-tree](utility/untitled/binary-search-tree.md)
   * [double-linked-circular-list](utility/untitled/double-linked-circular-list.md)
   * [event-emitter](utility/untitled/event-emitter.md)
