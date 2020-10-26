@@ -101,6 +101,7 @@
   * [get](utility/utility-object/get.md)
   * [forIn](utility/utility-object/forin.md)
   * [forOwn](utility/utility-object/forown.md)
+  * [create](utility/utility-object/create.md)
 * [utility-string](utility/utility-string/README.md)
   * [getRandomStr](utility/utility-string/getrandomstr.md)
   * [trim](utility/utility-string/trim.md)
