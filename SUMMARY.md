@@ -44,6 +44,7 @@
     * [\_includes](utility/untitled/es6-achieve/_includes.md)
     * [\_findIndex](utility/untitled/es6-achieve/_findindex.md)
     * [Dictionary](utility/untitled/es6-achieve/dictionary.md)
+    * [\_Promise](utility/untitled/es6-achieve/_promise.md)
 * [utility-array](utility/utility-array/README.md)
   * [isStrictArray](utility/utility-array/isstrictarray.md)
   * [toFlatArrayOutPlace](utility/utility-array/toflatarrayoutplace.md)

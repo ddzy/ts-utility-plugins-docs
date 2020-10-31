@@ -24,4 +24,5 @@
 | \_includes | 模拟 `Array.includes` | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/algorithm/es6-achieve/includes) | [文档](_includes.md) |
 | \_findIndex | 模拟 `Array.findIndex` | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/algorithm/es6-achieve/findIndex) | [文档](_findindex.md) |
 | Dictionary | 模拟 `Map` | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/algorithm/es6-achieve/dictionary) | [文档](dictionary.md) |
+| \_Promise | 模拟 `Promise` | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/algorithm/es6-achieve/promise) | [文档](_promise.md) |
 
