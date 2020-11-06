@@ -125,6 +125,7 @@
   * [\_instanceOf](utility/utility-others/_instanceof.md)
   * [size](utility/utility-others/size.md)
   * [convertParameterToObject](utility/utility-others/convertparametertoobject.md)
+  * [binarySearch](utility/utility-others/binarysearch.md)
 
 ## Extra
 

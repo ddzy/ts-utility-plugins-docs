@@ -25,4 +25,5 @@
 | \_instanceOf | 模拟实现原生的`instanceOf` | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/others/_instanceOf) | [文档](_instanceof.md) |
 | size | 返回任意值的长度 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/others/sizse) | [文档](size.md) |
 | convertParameterToObject |  提取 `URL` 中的 `GET` 请求参数 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/others/convertURLParameterToObject) | [文档](convertparametertoobject.md) |
+| binarySearch | 二分查找算法 | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/binarySearch/index.ts) | [文档](binarysearch.md) |
 
