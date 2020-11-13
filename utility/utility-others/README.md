@@ -26,4 +26,5 @@
 | size | 返回任意值的长度 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/others/sizse) | [文档](size.md) |
 | convertParameterToObject |  提取 `URL` 中的 `GET` 请求参数 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/others/convertURLParameterToObject) | [文档](convertparametertoobject.md) |
 | binarySearch | 二分查找算法 | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/binarySearch/index.ts) | [文档](binarysearch.md) |
+| listToTree | 将列表数据转化为树结构 | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/listToTree/index.ts) | [文档](listtotree.md) |
 

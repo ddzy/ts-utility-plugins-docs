@@ -126,6 +126,7 @@
   * [size](utility/utility-others/size.md)
   * [convertParameterToObject](utility/utility-others/convertparametertoobject.md)
   * [binarySearch](utility/utility-others/binarysearch.md)
+  * [listToTree](utility/utility-others/listtotree.md)
 
 ## Extra
 
