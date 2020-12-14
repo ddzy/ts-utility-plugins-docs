@@ -27,4 +27,12 @@
 | convertParameterToObject |  提取 `URL` 中的 `GET` 请求参数 | [源码](https://github.com/ddzy/ts-utility-plugins/tree/master/src/ddzy/utility/others/convertURLParameterToObject) | [文档](convertparametertoobject.md) |
 | binarySearch | 二分查找算法 | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/binarySearch/index.ts) | [文档](binarysearch.md) |
 | listToTree | 将列表数据转化为树结构 | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/listToTree/index.ts) | [文档](listtotree.md) |
+| isBoolean | 判断是否为布尔值 | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/isBoolean/index.ts) | [文档](isboolean.md) |
+| isNaN | 判断是否为 `NaN` | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/isNaN/index.ts) | [文档](isnull.md) |
+| isNumber | 判断是否为数值 | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/isNumber/index.ts) | [文档](isnumber.md) |
+| isString | 判断是否为字符串 | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/isString/index.ts) | [文档](isstring.md) |
+| isSymbol | 判断是否为 `Symbol` 值 | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/isSymbol/index.ts) | [文档](issymbol.md) |
+| sameValueZero | 根据 [SameValueZero](http://ecma-international.org/ecma-262/6.0/#sec-samevaluezero) 策略判断两个值是否相等 | [源码](https://github.com/ddzy/ts-utility-plugins/blob/master/src/ddzy/utility/others/sameValueZero/index.ts) | [文档](samevaluezero.md) |
+
+
 

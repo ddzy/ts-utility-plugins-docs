@@ -127,6 +127,12 @@
   * [convertParameterToObject](utility/utility-others/convertparametertoobject.md)
   * [binarySearch](utility/utility-others/binarysearch.md)
   * [listToTree](utility/utility-others/listtotree.md)
+  * [isBoolean](utility/utility-others/isboolean.md)
+  * [isNaN](utility/utility-others/isnan.md)
+  * [isNumber](utility/utility-others/isnumber.md)
+  * [isString](utility/utility-others/isstring.md)
+  * [isSymbol](utility/utility-others/issymbol.md)
+  * [sameValueZero](utility/utility-others/samevaluezero.md)
 
 ## Extra
 
